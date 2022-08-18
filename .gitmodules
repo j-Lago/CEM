@@ -1,0 +1,3 @@
+[submodule "CEM_plano_ensino"]
+	path = CEM_plano_ensino
+	url = https://github.com/j-Lago/CEM_plano_ensino
