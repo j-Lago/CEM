@@ -4,3 +4,30 @@
 [submodule "CEM_ex00"]
 	path = CEM_ex00
 	url = https://github.com/j-Lago/CEM_ex00.git
+[submodule "CEM_ex01"]
+	path = CEM_ex01
+	url = https://github.com/j-Lago/CEM_ex01.git
+[submodule "CEM_ex02"]
+	path = CEM_ex02
+	url = https://github.com/j-Lago/CEM_ex02.git
+[submodule "CEM_ex03"]
+	path = CEM_ex03
+	url = https://github.com/j-Lago/CEM_ex03.git
+[submodule "CEM_ex04"]
+	path = CEM_ex04
+	url = https://github.com/j-Lago/CEM_ex04.git
+[submodule "CEM_ex05"]
+	path = CEM_ex05
+	url = https://github.com/j-Lago/CEM_ex05.git
+[submodule "CEM_ex06"]
+	path = CEM_ex06
+	url = https://github.com/j-Lago/CEM_ex06.git
+[submodule "CEM_ex07"]
+	path = CEM_ex07
+	url = https://github.com/j-Lago/CEM_ex07.git
+[submodule "CEM_ex08"]
+	path = CEM_ex08
+	url = https://github.com/j-Lago/CEM_ex08.git
+[submodule "CEM_ex09"]
+	path = CEM_ex09
+	url = https://github.com/j-Lago/CEM_ex09.git
